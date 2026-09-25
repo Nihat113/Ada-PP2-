@@ -27,6 +27,8 @@ public class Average {
             System.out.println("Please enter a positive number.");
         }
 
+        
+
 
     }
 }
