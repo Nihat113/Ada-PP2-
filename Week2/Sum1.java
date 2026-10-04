@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sum {
+public class Sum1 {
     public static void main(String[] args) {
 
         Scanner number = new Scanner(System.in);
