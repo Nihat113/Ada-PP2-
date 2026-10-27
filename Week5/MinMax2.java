@@ -15,9 +15,4 @@ public class MinMax2 {
             numbers[i] = input.nextInt();
         }
     }
-
-    static int findMin(String[] arr){
-
-        
-    }
 }
