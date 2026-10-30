@@ -11,14 +11,14 @@ public class MediumExercise {
         int size = input.nextInt();
 
         if (size <= 0) {
-            System.out.println("Size must be positive.");
+            System.out.print("Size must be positive.");
             input.close();
             return;
         }
 
         int[] numbers = new int[size];
 
-        System.out.println("Enter " + size + " numbers:");
+        System.out.print("Enter " + size + " numbers:");
 
         for (int i = 0; i < numbers.length; i++) {
             numbers[i] = input.nextInt();
